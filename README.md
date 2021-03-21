@@ -17,3 +17,10 @@
 + Challenge from Brad Traversy & Florin Pop on Udemy '50 Projects in 50 Days'
 
 #### Takeaways from the instructor
+
+2. CSS
+- media query
+- random image + size: url('http://source.unsplash.com/random/150x150');
+
+3. JavaScript
+- add class name: Element.className += ' anotherClassName' // space before another class name.
